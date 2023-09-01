@@ -1,0 +1,8 @@
+{
+	"id":"ph_presidents_portraits", # internal id
+	"name":"Philippine Presidents Portrait Pack", # displayed to the player
+	"author":"Crimsteel",
+	"version":" 1.0.0",
+	"description":"Play as a President of the Philippines.",
+	"gameVersion":"0.96a-RC10",
+}
