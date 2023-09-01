@@ -1,0 +1,25 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/1_emilio_aguinaldo.png",
+			"graphics/portraits/2_manuel_quezon.png",
+			"graphics/portraits/3_jose_p_laurel.png",
+			"graphics/portraits/4_sergio_osmena.png",
+			"graphics/portraits/5_Manuel_Roxas.png",
+			"graphics/portraits/6_Elpidio_Quirino.png",
+			"graphics/portraits/7_Ramon_Magsaysay.png",
+			"graphics/portraits/8_Carlos_P_Garcia.png",
+			"graphics/portraits/9_Diosdado_Macapagal.png",
+			"graphics/portraits/10_Ferdinand_Marcos.png",
+			"graphics/portraits/12_Fidel_V_Ramos.png",
+			"graphics/portraits/13_Joseph_Estrada.png",
+			"graphics/portraits/15_Benigno_Aquino_III.png",
+			"graphics/portraits/16_Rodrigo_Duterte.png",
+			"graphics/portraits/17_Bongbong_Marcos.png",
+		],
+		"standard_female":[
+			"graphics/portraits/11_Cory_Aquino.png",
+			"graphics/portraits/14_Gloria_Macapagal_Arroyo.png"
+		]
+	},
+},				
